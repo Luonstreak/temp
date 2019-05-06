@@ -1,0 +1,13 @@
+/* Color Theme Swatches in Hex */
+.room-1-hex { color: #F0F4F5; }
+.room-2-hex { color: #D3C1AD; }
+.room-3-hex { color: #BE8B5A; }
+.room-4-hex { color: #A9AEA8; }
+.room-5-hex { color: #515D53; }
+
+/* Color Theme Swatches in RGBA */
+.room-1-rgba { color: rgba(240, 244, 245, 1); }
+.room-2-rgba { color: rgba(211, 193, 173, 1); }
+.room-3-rgba { color: rgba(190, 139, 90, 1); }
+.room-4-rgba { color: rgba(169, 174, 168, 1); }
+.room-5-rgba { color: rgba(81, 93, 83, 1); }
