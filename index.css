@@ -2,18 +2,6 @@
 * {
   font-family: Roboto, sans-serif;
 }
-.room-1-hex { color: #F0F4F5; }
-.room-2-hex { color: #D3C1AD; }
-.room-3-hex { color: #BE8B5A; }
-.room-4-hex { color: #A9AEA8; }
-.room-5-hex { color: #515D53; }
-
-/* Color Theme Swatches in RGBA */
-.room-1-rgba { color: rgba(240, 244, 245, 1); }
-.room-2-rgba { color: rgba(211, 193, 173, 1); }
-.room-3-rgba { color: rgba(190, 139, 90, 1); }
-.room-4-rgba { color: rgba(169, 174, 168, 1); }
-.room-5-rgba { color: rgba(81, 93, 83, 1); }
 
 .stk-box {
 	display: flex;
@@ -39,16 +27,31 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  height: 200px;
 }
 .item-2 {
   background-image: url('https://i.imgur.com/DCNivFw.png');
   background-repeat: no-repeat;
   background-position: 50% 45%;
   background-size: cover;
+  height: 200px;
 }
 .item-3 {
   background-image: url('https://i.ytimg.com/vi/Ex-YLZfkE8g/maxresdefault.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  height: 200px;
+}
+
+.contact_icon {
+  text-decoration: none;
+}
+
+.carousel-inner {
+  border: 30px solid gray;
+}
+
+.carousel h3, .carousel h5 {
+  border-bottom: 2px solid gray;
 }
