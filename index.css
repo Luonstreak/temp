@@ -22,36 +22,6 @@
 	font-weight: bolder;
 }
 
-.item-1 {
-  background-image: url('https://i.imgur.com/6cDtPCK.png');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  height: 200px;
-}
-.item-2 {
-  background-image: url('https://i.imgur.com/DCNivFw.png');
-  background-repeat: no-repeat;
-  background-position: 50% 45%;
-  background-size: cover;
-  height: 200px;
-}
-.item-3 {
-  background-image: url('https://i.ytimg.com/vi/Ex-YLZfkE8g/maxresdefault.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  height: 200px;
-}
-
 .contact_icon {
   text-decoration: none;
-}
-
-.carousel-inner {
-  border: 30px solid gray;
-}
-
-.carousel h3, .carousel h5 {
-  border-bottom: 2px solid gray;
 }
